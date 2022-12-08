@@ -1,5 +1,5 @@
 
-# Recipe-Generation-from-Food-Image
+# AI based Recipe Generator from Food Image
 
 An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning.
 
